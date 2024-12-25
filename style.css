@@ -252,10 +252,6 @@ margin-bottom: 32px;
     font-size: 40px;
     text-align: center;
 }
-.reviewBox p{
-    color: #535862;
-font-size: 24px;
-}
 .reviewCard{
 border-radius: 12px;
 border: 1px solid #E9EAEB;
@@ -292,4 +288,20 @@ justify-content: space-between;
 }
 .viewerAcount img {
 align-self: center;
+}
+.littleEdit_p{
+    color: #181D27;
+font-size: 18px;
+}
+.littleEdit_p2{
+    color: #535862;
+font-size: 16px;
+}
+.reviewCard p:nth-child(1){
+    color: #181D27;
+font-size: 20px;
+}
+.reviewTitle P{
+    color: #535862;
+    font-size: 24px;
 }
